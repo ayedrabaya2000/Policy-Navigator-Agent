@@ -49,11 +49,6 @@ This project implements an Agentic Retrieval-Augmented Generation (RAG) system t
 - Add caching and memory support
 - Multilingual policy support
 
-## Submission Instructions
-
-- Make the repository public on GitHub
-- Include this README and a demo video (2–3 minutes)
-- Email the GitHub link to: `devrel@aixplain.com`
 
 ## References
 
